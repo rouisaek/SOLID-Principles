@@ -8,15 +8,15 @@ namespace DIP;
 
 public class Airport
 {
-    IFlyingTransport _transport;
+    IFlyingTransport _vehicle;
 
-    public Airport(IFlyingTransport transport)
+    public Airport(IFlyingTransport vehicle)
     {
-        _transport = transport;
+        _vehicle = vehicle;
     }
 
-    public void PrintDestination(string destenation)
+    public void SetFly(string origin, string destination, int passengers)
     {
-        _transport.Destination(destenation);
+        _vehicle.Fly(origin, destination, passengers);
     }
 }

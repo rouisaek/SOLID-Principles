@@ -1,0 +1,15 @@
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\bin\Debug\net6.0\DIP.exe
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\bin\Debug\net6.0\DIP.deps.json
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\bin\Debug\net6.0\DIP.runtimeconfig.json
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\bin\Debug\net6.0\DIP.dll
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\bin\Debug\net6.0\DIP.pdb
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.csproj.AssemblyReference.cache
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.AssemblyInfoInputs.cache
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.AssemblyInfo.cs
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.csproj.CoreCompileInputs.cache
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.dll
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\refint\DIP.dll
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.pdb
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\DIP.genruntimeconfig.cache
+C:\Users\Metarazor\Source\Repos\rouisaek\SOLID-Principles\DIP\obj\Debug\net6.0\ref\DIP.dll

@@ -8,5 +8,5 @@ namespace DIP;
 
 public interface IFlyingTransport
 {
-    public void Destination(string destination); 
+    public void Fly(string origin, string destination, int passengers);
 }

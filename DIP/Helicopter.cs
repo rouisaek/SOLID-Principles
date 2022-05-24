@@ -8,8 +8,10 @@ namespace DIP;
 
 public class Helicopter : IFlyingTransport
 {
-    public void Destination(string destination)
+    Logger logger = new();
+
+    public void Fly(string origin, string destination, int passengers)
     {
-        Console.WriteLine($"Helicopter Destenation: {destination}");
+        logger.Message($"Helicopter Depart: {origin} | Arrive: {destination} | Total passengers: {passengers}");
     }
 }
